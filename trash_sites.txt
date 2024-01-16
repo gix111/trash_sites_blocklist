@@ -1,6 +1,8 @@
 # This blocklist helps Adguard admin restrict access to trash sites.
 
 ||rosenheim24.de^
+||bild.de^
+||ovb-online.de^
 
 
 

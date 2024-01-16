@@ -1,0 +1,6 @@
+# This blocklist helps Adguard admin restrict access to trash sites.
+
+||rosenheim24.de^
+||91.235.47.82^
+
+
